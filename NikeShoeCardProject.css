@@ -12,7 +12,7 @@ img {
 }
 
 
-#holder {
+#container {
   width: 100vw;
   height: 100vh;
   background: #dfdfdf;
@@ -21,7 +21,7 @@ img {
   justify-content: center;
 }
 
-#box {
+#card {
   width: 300px;
   background: white;
   border-radius: 10px;
